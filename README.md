@@ -1,40 +1,70 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">, I'm Yug Patel
+<h1 align="center">
+  Hi there <img src="./assets/Hiimg.gif" width="50">, I'm Yug Patel
+</h1>
 
-🎓 B.Tech CSE Student at Pandit Deendayal Energy University  
-🌱 Currently exploring Web Development and Machine Learning  
-💼 Interned at Prasidh Foundation (NGO) | Active participant in civic & tech activities  
-💡 Passionate about solving real-world problems through code  
-🎯 Goal: To become a skilled AI/ML developer and build meaningful projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=22C1FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Passionate+About+Building+Projects;Open+to+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yug1275&label=Profile%20Views&color=blue" />
+  <img src="https://img.shields.io/github/followers/Yug1275?label=Followers" />
+  <img src="https://img.shields.io/github/stars/Yug1275?affiliations=OWNER%2CCOLLABORATOR" />
+</p>
+
+<p align="center">
+  📄 <a href="./assets/Yug Patel Resume.pdf">View My Resume</a> •
+  📧 <a href="mailto:yjpatel1275@gmail.com">Contact Me</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## <img src="./assets/book.gif" width="30" >About Me
 
+<img align="right" alt="coding" width="320" src="./assets/about.gif">
+
+
+I am a **Computer Science Engineering student** passionate about building clean and user-friendly web applications. I enjoy turning ideas into practical digital solutions.
+
+🔭 **Current Focus:** Full-stack web development & responsive applications
+
+🌱 **Currently Learning:** Modern JavaScript and backend with Node.js
+
+⚒️ **Experience:** Internship at **Prasidh Foundation (NGO)** and participation in hackathons
+
+💬 **Ask me about:** HTML, CSS, JavaScript, and responsive web design
+
+<br clear="left"/>
+
+
+---
+
+## <img src="./assets/TechTools.gif" width="50"> Tech Stack & Tools
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,php,html,css,js" />
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,npm" />
 
-### 🗄️ Databases
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=github,linux,vscode,vercel" />
 
-### 📊 Data & Visualization
+### Data & Visualization
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=python\&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-### 🧩 Other Tools
+### Other Tools
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
@@ -46,7 +76,7 @@
 
 ---
 
-## 🏆 Featured Projects
+## <img src="./assets/trophy.gif" width="50">Featured Projects
 
 <table>
 <tr align = 'center'>
@@ -123,26 +153,6 @@ AI-powered platform for planning green hydrogen infrastructure.
 </table>
 
 ---
-
-## NGO Experience
-
-Worked at **Prasidh Foundation**, contributing to:  
-- Women Empowerment Campaigns  
-- Tree Plantation Drives  
-- Cardboard Bird House Project  
-- Health & Hygiene Awareness Sessions  
-- Street Schools and Education Awareness
-
----
-
-## 📫 Contact Me
-
-- **Email:** yjpatel1275@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yugpatel](https://www.linkedin.com/in/yugpatel040205)  
-- **GitHub:** [github.com/yugpatel](https://github.com/Yug1275)
-
----
-
 ## 📌 Fun Facts
 
 - 🎸 I love playing musical instruments  
@@ -151,4 +161,29 @@ Worked at **Prasidh Foundation**, contributing to:
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## <img src="./assets/handshake.gif" width="50"> Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/yugpatel040205/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.hackerrank.com/profile/yjpatel1275">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/YugPatel0108/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://www.instagram.com/yugpatel253/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
+---
+<p align="center">
+Developed with ❤️ by <b>Yug Patel</b>
+</p>
