@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yug Patel
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">, I'm Yug Patel
 
 🎓 B.Tech CSE Student at Pandit Deendayal Energy University  
 🌱 Currently exploring Web Development and Machine Learning  
@@ -57,7 +57,7 @@
 
 ### WebLink
 
-Portfolio & centralized link manager for showcasing projects and social profiles.
+Interactive link hub to manage social and professional profiles seamlessly.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
