@@ -14,6 +14,7 @@
 
 <p align="center">
   📄 <a href="./assets/Yug Patel Resume.pdf">View My Resume</a> •
+  🌐<a href="https://yugdev.netlify.app/">Visit Portfolio</a> •
   📧 <a href="mailto:yjpatel1275@gmail.com">Contact Me</a>
 </p>
 
