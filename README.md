@@ -77,7 +77,7 @@ I am a **Computer Science Engineering student** passionate about building clean 
 
 ---
 
-## <img src="./assets/trophy.gif" width="50">Featured Projects
+## 🏆 Featured Projects
 
 <table>
 <tr align = 'center'>
@@ -86,14 +86,14 @@ I am a **Computer Science Engineering student** passionate about building clean 
 
 <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c" height="170"/>
 
-### WebLink
+### LinkHub
 
 Interactive link hub to manage social and professional profiles seamlessly.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
 
-🔗 **[View Project](https://webdotlink.netlify.app/)**
+🔗 **[View Project](https://linkhubyug.netlify.app/)**
 
 </td>
 
