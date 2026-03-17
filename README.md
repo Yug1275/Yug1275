@@ -13,9 +13,15 @@
 </p>
 
 <p align="center">
-  📄 <a href="./assets/Yug Patel Resume.pdf">View My Resume</a> •
-  🌐<a href="https://yugdev.netlify.app/">Visit Portfolio</a> •
-  📧 <a href="mailto:yjpatel1275@gmail.com">Contact Me</a>
+  <a href="./assets/Yug Patel Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://yugdev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yugpatel040205/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
