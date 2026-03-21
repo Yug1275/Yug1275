@@ -107,7 +107,7 @@ Interactive link hub to manage social and professional profiles seamlessly.
 
 <td width="50%">
 
-<img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e" height="170"/>
+<img src="./assets/sitecraft.png" height="170"/>
 
 ### SiteCraft
 
@@ -128,7 +128,7 @@ Website built for my father’s civil construction business to showcase services
 
 <td width="50%">
 
-<img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef" height="170"/>
+<img src="./assets/healthcare_pro.png" height="170"/>
 
 ### HealthCare Pro
 
