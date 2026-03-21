@@ -13,9 +13,15 @@
 </p>
 
 <p align="center">
-  📄 <a href="./assets/Yug Patel Resume.pdf">View My Resume</a> •
-  🌐<a href="https://yugdev.netlify.app/">Visit Portfolio</a> •
-  📧 <a href="mailto:yjpatel1275@gmail.com">Contact Me</a>
+  <a href="./assets/Yug Patel Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://yugdev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yugpatel040205/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -77,23 +83,25 @@ I am a **Computer Science Engineering student** passionate about building clean 
 
 ---
 
-## <img src="./assets/trophy.gif" width="50">Featured Projects
+## 🏆 Featured Projects
 
 <table>
 <tr align = 'center'>
 
 <td width="50%">
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c" height="170"/>
+<img src="./assets/LinkHub.jpg" height="170"/>
 
-### WebLink
+### LinkHub
 
 Interactive link hub to manage social and professional profiles seamlessly.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
 
-🔗 **[View Project](https://webdotlink.netlify.app/)**
+🔗 **[View Project](https://linkhubyug.netlify.app/)**
 
 </td>
 
@@ -143,8 +151,8 @@ Web-based healthcare management system for appointments and patient records.
 
 AI-powered platform for planning green hydrogen infrastructure.
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat\&logo=mysql\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 🔗 **[View Project](https://www.linkedin.com/posts/yugpatel040205_hackout2025-greenhydrogen-ai-activity-7368342207663165441-0ZzW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEoxx1MBxpAVLgFTStRlKwimeHdw8uoe8xs)**
 
