@@ -111,7 +111,7 @@ Interactive link hub to manage social and professional profiles seamlessly.
 
 ### SiteCraft
 
-Website built for my father’s civil construction business to showcase services and projects.
+Website built for my father's civil construction business to showcase services and projects.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -163,6 +163,36 @@ AI-powered platform for planning green hydrogen infrastructure.
 </table>
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yug1275&theme=tokyonight" width="100%" />
+
+<br/>
+
+<!-- Stats + Streak side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=Yug1275&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yug1275&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/>
+
+<!-- Top Languages by Commit + by Repo side by side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yug1275&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yug1275&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yug1275&theme=tokyonight" width="32%" />
+
+<br/>
+
+<!-- Contribution Graph (full width) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yug1275&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
 ## 📌 Fun Facts
 
 - 🎸 I love playing musical instruments  
