@@ -146,16 +146,20 @@ Web-based healthcare management system for appointments and patient records.
 
 <td width="50%">
 
-<img src="https://images.unsplash.com/photo-1504639725590-34d0984388bd" height="170"/>
+<img src="./assets/ClipHub.jpeg" height="170"/>
 
-### Infra Vision
+## 🚀 ClipHub
 
-AI-powered platform for planning green hydrogen infrastructure.
+Real-time clipboard & file sharing platform for seamless cross-device transfer.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=flat&logo=socket.io&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-🔗 **[View Project](https://www.linkedin.com/posts/yugpatel040205_hackout2025-greenhydrogen-ai-activity-7368342207663165441-0ZzW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEoxx1MBxpAVLgFTStRlKwimeHdw8uoe8xs)**
+🔗 **[View Project](https://clipdothub.netlify.app/)**
 
 </td>
 
