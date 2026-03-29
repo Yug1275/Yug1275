@@ -146,7 +146,7 @@ Web-based healthcare management system for appointments and patient records.
 
 <td width="50%">
 
-<img src="./assets/ClipHub.jpeg" height="170"/>
+<img src="./assets/ClipHub.jpg" height="170"/>
 
 ## 🚀 ClipHub
 
