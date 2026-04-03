@@ -140,29 +140,26 @@ Web-based healthcare management system for appointments and patient records.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 
-🔗 **[View Project](#)**
+🔗 **[View Project](https://github.com/Yug1275/HealthCare-Pro.git)**
 
 </td>
 
 <td width="50%">
+  <img src="./assets/ClipHub.jpg" height="170"/>
 
-<img src="./assets/ClipHub.jpg" height="170"/>
+  <h3>🚀 ClipHub</h3>
+  <p>Real-time clipboard & file sharing platform for seamless cross-device transfer.</p>
 
-## 🚀 ClipHub
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-000000?style=flat&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
 
-Real-time clipboard & file sharing platform for seamless cross-device transfer.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=flat&logo=socket.io&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-🔗 **[View Project](https://clipdothub.netlify.app/)**
-
+ 
+  🔗 <b><a href="https://clipdothub.netlify.app/">View Project</a></b>
 </td>
-
 </tr>
 </table>
 
